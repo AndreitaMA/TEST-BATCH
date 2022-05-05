@@ -1,0 +1,4 @@
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:jarsa/stock-logistics-workflow.git
+	branch = 14.0
